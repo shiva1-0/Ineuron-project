@@ -1,0 +1,25 @@
+.Order_Placed{
+    width: 100%;
+    height: 30vh;
+    background: #fce3fe;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+.Order_Placed h1{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 60px;
+    color: #d0056ba4;
+}
+.Order_Placed h4{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 400;
+
+}
